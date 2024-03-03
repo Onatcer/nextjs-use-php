@@ -1,5 +1,9 @@
 ## Next.js `use php`
 
+> [!NOTE]
+> Check out **solidtime - The modern Open Source Time-Tracker** at [solidtime.io](https://www.solidtime.io)
+
+
 Use PHP right inside of your Next.js project. 
 Just like `use server` (not really).
 
